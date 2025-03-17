@@ -10,7 +10,7 @@
   "author": "Fernando Papito",
   "license": "MIT",
   "devDependencies": {
-    "@playwright/test": "^1.31.2",
+    "@playwright/test": "^1.51.0",
     "@types/node": "^22.13.10"
   }
 }
